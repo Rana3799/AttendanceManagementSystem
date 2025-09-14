@@ -57,6 +57,8 @@ namespace AttendanceManagementSystem.DataAccess.Extensions
 
             return services;
         }
+
+
     }
 }
 
